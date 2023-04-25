@@ -1,0 +1,4 @@
+# adding new product for services
+print("eZee software")
+# want to sell product
+Result("one for hotel")
